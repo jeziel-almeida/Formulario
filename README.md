@@ -6,6 +6,6 @@
 
 Feito por [Jeziel Almeida](https://github.com/jeziel-almeida)
 
-*Exemplo:*
+*Formulário:*
 
-![formulario](https://freefrontend.com/assets/img/css-forms/multi-step-form-with-progress-bar-using-jquery-and-css3.png)
+![formulario](https://github.com/jeziel-almeida/Formulario/blob/main/form.png)
