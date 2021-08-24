@@ -6,6 +6,6 @@
 
 Feito por [Jeziel Almeida](https://github.com/jeziel-almeida)
 
-*Formulário:*
+*Resultado:*
 
-![formulario](https://github.com/jeziel-almeida/Formulario/blob/main/form.png)
+![Formulário](https://github.com/jeziel-almeida/Formulario/blob/main/form.png)
